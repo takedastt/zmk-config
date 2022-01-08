@@ -40,7 +40,7 @@
 		};
 		raise {
 			bindings = <
-				&trans &kp K_PREV &kp K_PAUSE &kp K_NEXT &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+				&trans &kp K_PREV &kp K_PLAY_PAUSE &kp K_NEXT &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
 				&trans &kp K_VOL_DN &kp K_VOL_UP &kp K_MUTE &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
 				&trans    &trans &trans &kp DEL &trans &trans &trans &trans &trans &trans &trans  &trans   &trans
 				&trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans  &trans
